@@ -118,6 +118,6 @@ span:hover {
 .equal {
   position: absolute;
   bottom: 20px;
-  width: calc((88.76px * 1) + 20px);
+  width: calc((88.76px) + 20px);
   right: 20px;
 }
